@@ -2,6 +2,7 @@
 Aplikasi Perekrutan Karyawan Online berbasis PHP My SQL by Tomo Hadi Sutomo.
 
 PHP 7.1 
+
 My SQL/MariaDB 
 
 

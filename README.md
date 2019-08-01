@@ -6,4 +6,4 @@ PHP 7.1
 My SQL/MariaDB 
 
 
-Encrypted with Ion Cube Loader. untuk Source Code Unencrypted, silahkan hubungi Saya via 082330804234.
+Encrypted with IonCube. untuk Source Code Unencrypted, silahkan hubungi Saya via 082330804234.
